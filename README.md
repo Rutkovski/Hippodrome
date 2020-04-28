@@ -1,2 +1,2 @@
 # Hippodrome
-Java console game
+U+1F579 Java console game
