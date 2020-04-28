@@ -79,7 +79,9 @@ fabric.properties
 modules.xml
 .idea/misc.xml
 *.ipr
-
+.idea/
+.idea
+out
 # End of https://www.gitignore.io/api/jetbrains+iml
 # Compiled class file
 *.class
